@@ -1,6 +1,4 @@
 # Air_Plane_Crash_Analysis
-yatra prathiba tatra vijayeth. 
-
 
 
 
